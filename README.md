@@ -1,6 +1,6 @@
 # Daphne Konstantinis
 
-![download.jpg](assets/download.jpg)
+<img alt="download.jpg" height="140" src="assets/download.jpg" width="3200"/>
 
 
 ## Portfolio
