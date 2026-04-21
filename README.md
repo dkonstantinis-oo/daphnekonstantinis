@@ -1,2 +1,0 @@
-# daphnekonstantinis
-Portfolio
