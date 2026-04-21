@@ -1,6 +1,6 @@
 # CS105/6/7/8 Portfolio
 # Daphne Konstantinis
-![download.jpg](student-portfolio-dkonstantinis-oo/assets/download.jpg)
+![download.jpg](assets/download.jpg)
 ***
 
 ## Portfolio
@@ -17,7 +17,7 @@ Location: Baltimore, MD
 ***
 
 ### About Me!
-<img alt="IMG_4784 2.png" height="150" src="student-portfolio-dkonstantinis-oo/assets/IMG_4784 2.png" width="150"/>
+<img alt="IMG_4784 2.png" height="150" src="assets/IMG_4784 2.png" width="150"/>
 
 I’m interested in pursuing a career in pediatrics, especially pediatric oncology. I have experience in a medical office and am involved in Division I rowing, which has strengthened my teamwork and time management skills. I’m always looking for opportunities to grow and gain hands-on experience in healthcare.
 ***
@@ -44,7 +44,7 @@ Pre-med track with a minor in Forensics
 - The project uses formulas to automatically calculate weighted scores and final letter grades. It also includes visual charts to show how each category contributes to the overall grade.
 - This project helped me better understand how data organization and calculations can be applied to real academic scenarios.
 
-<img alt="Grade Calculator.png" height="150" src="student-portfolio-dkonstantinis-oo/assets/Grade Calculator.png" width="150"/>
+<img alt="Grade Calculator.png" height="150" src="assets/Grade Calculator.png" width="150"/>
 
  - [Excel Grade Calculator](https://studentsloyola-my.sharepoint.com/:x:/r/personal/dkonstantinis_loyola_edu/Documents/Daphne%20Konstantinis_Excel%20Assessment_CS106.01_1pm.xlsx?d=wd8a5f35003cc436aa5fe50554e91e2e4&csf=1&web=1&e=dhQPlk)[Excel Grade Caluclator](https://studentsloyola-my.sharepoint.com/:x:/r/personal/dkonstantinis_loyola_edu/Documents/Daphne%20Konstantinis_Excel%20Assessment_CS106.01_1pm.xlsx?d=wd8a5f35003cc436aa5fe50554e91)
 ##### Project 2 Report
