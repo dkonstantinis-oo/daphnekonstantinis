@@ -51,7 +51,7 @@ Pre-med track with a minor in Forensics
  - [Excel Grade Calculator](https://studentsloyola-my.sharepoint.com/:x:/r/personal/dkonstantinis_loyola_edu/Documents/Daphne%20Konstantinis_Excel%20Assessment_CS106.01_1pm.xlsx?d=wd8a5f35003cc436aa5fe50554e91e2e4&csf=1&web=1&e=dhQPlk)[Excel Grade Caluclator](https://studentsloyola-my.sharepoint.com/:x:/r/personal/dkonstantinis_loyola_edu/Documents/Daphne%20Konstantinis_Excel%20Assessment_CS106.01_1pm.xlsx?d=wd8a5f35003cc436aa5fe50554e91)
 ##### Project 2 Report
  - Strengthened my Excel skills, including formulas, percentages, and data visualization through charts.
-***
+
 ## Inventory Management
 ##### Project 3 Summary
  - Built an inventory and profit tracking system for different perfume brands using Excel.
