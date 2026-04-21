@@ -1,9 +1,12 @@
-# CS105/6/7/8 Portfolio
 # Daphne Konstantinis
+
 ![download.jpg](assets/download.jpg)
-***
+
 
 ## Portfolio
+
+***
+
 #### Contact Info: 
 
 Name: Daphne Konstantinis
@@ -27,7 +30,7 @@ Pre-med track with a minor in Forensics
 ***
 ## Projects
 
-## Personality Test
+## Personality Test 
 ##### Project 1 Summary
  - Created a personality test using Python that asks users a series of questions and generates a personality type based on their responses. 
  - The project demonstrates basic programming skills, including conditionals, user input, and logic building.
@@ -37,7 +40,9 @@ Pre-med track with a minor in Forensics
 
 ##### Project 1 Report
  - This project helped me understand how to structure programs and improve user interaction through code.
+
 ***
+
 ## Grade Calculator
 ##### Project 2 Summary
  - Created an Excel grade calculator to track and compute final grades for multiple classes based on weighted categories like homework, quizzes, exams, and participation.
