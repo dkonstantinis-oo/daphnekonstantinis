@@ -2,9 +2,6 @@
 
 <img alt="download.jpg" height="140" src="assets/download.jpg" width="3200"/>
 
-
-## Portfolio
-
 ***
 
 #### Contact Info: 
@@ -23,11 +20,11 @@ Location: Baltimore, MD
 <img alt="IMG_4784 2.png" height="150" src="assets/IMG_4784 2.png" width="150"/>
 
 I’m interested in pursuing a career in pediatrics, especially pediatric oncology. I have experience in a medical office and am involved in Division I rowing, which has strengthened my teamwork and time management skills. I’m always looking for opportunities to grow and gain hands-on experience in healthcare.
-***
+
 ### Education 
 Sophomore Biology/BioHealth major at Loyola University Maryland
 Pre-med track with a minor in Forensics
-***
+
 ## Projects
 
 ## Personality Test 
@@ -49,7 +46,7 @@ Pre-med track with a minor in Forensics
 - The project uses formulas to automatically calculate weighted scores and final letter grades. It also includes visual charts to show how each category contributes to the overall grade.
 - This project helped me better understand how data organization and calculations can be applied to real academic scenarios.
 
-<img alt="Grade Calculator.png" height="150" src="assets/Grade Calculator.png" width="150"/>
+<img alt="Grade Calculator.png" height="150" src="assets/Grade Calculator.png" width="300"/>
 
  - [Excel Grade Calculator](https://studentsloyola-my.sharepoint.com/:x:/r/personal/dkonstantinis_loyola_edu/Documents/Daphne%20Konstantinis_Excel%20Assessment_CS106.01_1pm.xlsx?d=wd8a5f35003cc436aa5fe50554e91e2e4&csf=1&web=1&e=dhQPlk)[Excel Grade Caluclator](https://studentsloyola-my.sharepoint.com/:x:/r/personal/dkonstantinis_loyola_edu/Documents/Daphne%20Konstantinis_Excel%20Assessment_CS106.01_1pm.xlsx?d=wd8a5f35003cc436aa5fe50554e91)
 ##### Project 2 Report
@@ -61,8 +58,9 @@ Pre-med track with a minor in Forensics
  - The project calculates profit, profit margins, and commission while analyzing product performance. 
  - It includes conditional formatting to highlight important data and charts to visualize estimated profits across products. 
  - This project connects business concepts with data analysis, showing how pricing and costs impact overall profit.
-<img alt="Inventory Manager.png" height="150" src="assets/Inventory%20Manager.png" width="150"/>
 
- - [Excel Inventory Manager](https://studentsloyola-my.sharepoint.com/:x:/r/personal/dkonstantinis_loyola_edu/Documents/Daphne%20Konstantinis_Excel%20Assessment_CS106.01_1pm.xlsx?d=wd8a5f35003cc436aa5fe50554e91e2e4&csf=1&web=1&e=I4jdTK)
+   <img alt="Inventory Manager.png" height="150" src="assets/Inventory%20Manager.png3" width="300"/>
+
+- [Excel Inventory Manager](https://studentsloyola-my.sharepoint.com/:x:/r/personal/dkonstantinis_loyola_edu/Documents/Daphne%20Konstantinis_Excel%20Assessment_CS106.01_1pm.xlsx?d=wd8a5f35003cc436aa5fe50554e91e2e4&csf=1&web=1&e=I4jdTK)
 ##### Project 3 Report
  - Improved my ability to analyze financial data, use formulas, and present insights clearly through charts and tables.
