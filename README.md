@@ -54,8 +54,8 @@ Pre-med track with a minor in Forensics
 ## Inventory Management
 ##### Project 3 Summary + Report 
  - I used Excel to build an inventory and profit tracking system that calculates profit, profit margins, and commissions while using charts and conditional formatting to analyze product performance. A challenge was setting up accurate formulas and organizing the data clearly, which I solved by testing calculations and refining the layout. I used online resources for support and worked independently. The final result effectively tracks inventory and profits, and I would improve it by adding more automation and expanding the analysis.
-  
- <img alt="Inventory Manager.png" height="140" src="assets/Inventory%20Manager.png3" width="3200"/>
+
+<img alt="Inventory Manager.png" height="140" src="assets/Inventory%20Manager.png" width="3200"/>
 
 - [Excel Inventory Manager](https://studentsloyola-my.sharepoint.com/:x:/r/personal/dkonstantinis_loyola_edu/Documents/Daphne%20Konstantinis_Excel%20Assessment_CS106.01_1pm.xlsx?d=wd8a5f35003cc436aa5fe50554e91e2e4&csf=1&web=1&e=I4jdTK)
 
